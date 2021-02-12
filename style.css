@@ -1,0 +1,14 @@
+#grid{
+    text-align: center;
+}
+.my_Img_Margin{
+   width: 250px;
+    margin: 20px;
+    height: 200px;
+}
+#A{
+    float: left;
+}
+#B{
+    float: right;
+}
